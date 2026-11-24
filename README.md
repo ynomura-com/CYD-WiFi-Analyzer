@@ -47,7 +47,6 @@ cyd-wifi-analyzer/
 ├── platformio.ini      # ボード・ライブラリ・TFT_eSPI 設定 (レーダーと共通)
 ├── src/
 │   └── main.cpp        # 本体 (これだけ)
-├── .vscode/extensions.json
 └── README.md
 ```
 
