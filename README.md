@@ -2,7 +2,10 @@
 
 CYD（ESP32-2432S028、240×320・横向き 320×240）で周囲の **2.4GHz Wi-Fi** を可視化するアプリです。配線は不要で、本体だけで動きます。どの AP にも接続しません（見るだけ）。
 
-環境: **VS Code + PlatformIO**（レーダーアプリと同じ `platformio.ini` 設定を流用しています）
+環境: **VS Code + PlatformIO**
+
+<img width="684" height="531" alt="IMG_2610S" src="https://github.com/user-attachments/assets/394422bf-75a7-4bab-af3b-5c87abb3659a" />
+
 
 ## 3つの画面
 
